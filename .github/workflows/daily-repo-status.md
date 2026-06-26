@@ -44,6 +44,8 @@ Create an upbeat daily status report for the repo as a GitHub issue.
 - Progress tracking, goal reminders and highlights
 - Project status and recommendations
 - Actionable next steps for maintainers
+- 關注你的 issue 待辦、CI 狀態或測試
+
 
 ## Style
 
